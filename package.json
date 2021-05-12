@@ -5,7 +5,7 @@
   "main": "index.php",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "del": "^4.1.1",
     "gulp-file-include": "^2.0.1",
     "gulp-sourcemaps": "^2.6.5",
